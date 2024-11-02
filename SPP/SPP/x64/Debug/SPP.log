@@ -1,0 +1,7 @@
+﻿  MainForm.cpp
+D:\Project\C++\SPP\SPP\MainForm.h(326,19): warning C4129: 'S': unrecognized character escape sequence
+D:\Project\C++\SPP\SPP\MainForm.h(352,20): warning C4129: 'S': unrecognized character escape sequence
+D:\Project\C++\SPP\SPP\MainForm.h(329,19): warning C4101: 'dr': unreferenced local variable
+D:\Project\C++\SPP\SPP\MainForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SPP.vcxproj -> D:\Project\C++\SPP\x64\Debug\SPP.exe

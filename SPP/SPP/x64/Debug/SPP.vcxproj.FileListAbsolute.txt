@@ -1,0 +1,3 @@
+D:\Project\C++\SPP\SPP\x64\Debug\SPP.MainForm.resources
+D:\Project\C++\SPP\SPP\x64\Debug\SPP.vcxproj.GenerateResource.cache
+D:\Project\C++\SPP\SPP\x64\Debug\SPP.vcxproj.AssemblyReference.cache
